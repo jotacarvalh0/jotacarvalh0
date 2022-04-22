@@ -1,0 +1,5 @@
+-  // 👋 Oi, me chamo @jotacarvalh0
+-   // 👀 Sou um estudante de Sistema de informação.
+- // 🌱 Tenho o objetivo de me profissionalizar na programação.
+-  // 💞️ Amo toda essa área e por isso tanto desejo em aprender.
+- // 📫 Não quero ser só um programador, quero realmente ser muito bom.

@@ -1,5 +1,3 @@
--  // 👋 Oi, me chamo @jotacarvalh0
--   // 👀 Sou um estudante de Sistema de informação.
-- // 🌱 Tenho o objetivo de me profissionalizar na programação.
--  // 💞️ Amo essa área e por isso tanto desejo em aprender.
-- // 📫 Sempre querendo aprender mais.
+### Olá, Sou o José Carvalho 👌🏽
+
+[![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]
